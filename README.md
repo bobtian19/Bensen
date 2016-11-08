@@ -3,4 +3,5 @@ This is the code repository for studying the correlation between logged Uber pic
 
 ([Link](https://bobtian.wordpress.com/analyzing-mta-and-uber-data-sets/) to blog post for more details on the study)
 
-![Image](https://bobtian.files.wordpress.com/2016/09/diagram.png?w=1440)
+![Image](diagram.png)
+![Image](barplot.png)
